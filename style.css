@@ -117,7 +117,7 @@ header h1 {
   margin-top: 0px;
   border-top: 0;
   margin-bottom: 0;
-  height: 70vh;
+ /* height: 70vh;*/
 }
 
 .ownerinfo img {
@@ -126,7 +126,7 @@ header h1 {
   width: 65px;
   height: 65px;
   margin-top: 0;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
 }
 
 .ownerinfo {
@@ -134,8 +134,8 @@ header h1 {
   margin: auto;
   justify-content: center;
   align-items: center;
-  padding: 40px;
-  border: 1px solid red; 
+  padding: 50px;
+  /*border: 1px solid red; */
   padding-top: 18px;
   border-top: 0;
   text-align: center;
@@ -145,34 +145,35 @@ header h1 {
   box-sizing: border-box;
 }
 
-.thomas{
-  margin-top: -1em;
-}
+/*.thomas{
+ /* margin-top: -1em;*/
 
-#thomasid{
+
+/*#thomasid{
   margin-top: 0.5em;
   border-bottom: 0;
   box-sizing: border-box;
   border: 1px solid red;
-}
+}*/
 
-#thomasid p{
+/*#thomasid p{
   margin-top: 1.5em;
-}
+}*/
+
 
 .ownerinfo > p {
   color: hsl(232, 10%, 55%);
   font-family: "Barlow", sans-serif;
 }
 
-.middlediv{
+/*.middlediv{
   border: 1px solid red;
   padding: 0px;
   line-height: 0;
   margin-top: 2em;
   border-top: 0;
 
-}
+}*/
 
 
 
